@@ -7,10 +7,8 @@
 * Potentiometers
 * Servo
 * String
-* 
 
-### [Micro servo](https://www.adafruit.com/product/169)
-
+## Code
 
 ## Bibliography
 
