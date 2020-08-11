@@ -10,6 +10,10 @@
 
 ## Code
 
+## Bill of materials
+
+* [https://octopart.com/bom-tool/ODl8Fyb8](https://octopart.com/bom-tool/ODl8Fyb8)
+
 ## Bibliography
 
 * [https://www.arduino.cc/en/Tutorial/Sweep](https://www.arduino.cc/en/Tutorial/Sweep)
